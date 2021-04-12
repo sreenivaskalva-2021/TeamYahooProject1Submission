@@ -1,12 +1,12 @@
 # TeamYahooProject1Submission
 
-# Monsah University - Fintech Bootcamp, Feb 2021 Batch - Class Project # 1
+Monsah University - Fintech Bootcamp, Feb 2021 Batch - Class Project # 1
 
-# Team name: Yahooooo!
+Team name: Yahooooo!
 
-# Members: Chris Chan, Shanshan Zhang, Sreenivas Kalva, Desmond Phan, Hemal Bavishi
+Members: Chris Chan, Shanshan Zhang, Sreenivas Kalva, Desmond Phan, Hemal Bavishi
 
-# Project Objective: Yahooooo! team  will undertake a portfolio assessment of 4 portfolio scenarios and provides a recommendation based on higher ROI. This portfolio assessment does not take into consideration other factors such as Risk/Volatility etc.
+Project Objective: Yahooooo! team  will undertake a portfolio assessment of 4 portfolio scenarios and provides a recommendation based on higher ROI. This portfolio assessment does not take into consideration other factors such as Risk/Volatility etc.
 
 User inputs initial capital (such as A$10K), and the program uses 5-yr historial returns to calculate the current value of the investment.
 
